@@ -1,0 +1,250 @@
+
+madfishing.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background2
+  rotate: false
+  xy: 1, 205
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+helpscreen
+  rotate: false
+  xy: 1, 103
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 483, 805
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+highscores
+  rotate: false
+  xy: 1, 1
+  size: 320, 100
+  orig: 320, 100
+  offset: 0, 0
+  index: -1
+arrow
+  rotate: false
+  xy: 483, 703
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+resume
+  rotate: false
+  xy: 483, 601
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+coloredslappysealwrods
+  rotate: false
+  xy: 785, 755
+  size: 125, 250
+  orig: 125, 250
+  offset: 0, 0
+  index: -1
+gameover
+  rotate: false
+  xy: 483, 449
+  size: 200, 150
+  orig: 200, 150
+  offset: 0, 0
+  index: -1
+ready
+  rotate: false
+  xy: 483, 347
+  size: 250, 100
+  orig: 250, 100
+  offset: 0, 0
+  index: -1
+play
+  rotate: false
+  xy: 483, 245
+  size: 160, 100
+  orig: 160, 100
+  offset: 0, 0
+  index: -1
+quit
+  rotate: false
+  xy: 785, 653
+  size: 150, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: -1
+biggestGoodFish
+  rotate: false
+  xy: 912, 909
+  size: 100, 96
+  orig: 100, 96
+  offset: 0, 0
+  index: -1
+alligatorbad
+  rotate: false
+  xy: 785, 606
+  size: 150, 45
+  orig: 150, 45
+  offset: 0, 0
+  index: -1
+blowbadfish
+  rotate: false
+  xy: 912, 830
+  size: 110, 77
+  orig: 110, 77
+  offset: 0, 0
+  index: -1
+bigGoodFish
+  rotate: false
+  xy: 912, 755
+  size: 98, 73
+  orig: 98, 73
+  offset: 0, 0
+  index: -1
+whalebad
+  rotate: false
+  xy: 685, 526
+  size: 130, 73
+  orig: 130, 73
+  offset: 0, 0
+  index: -1
+angelfishGood
+  rotate: false
+  xy: 403, 103
+  size: 60, 100
+  orig: 60, 100
+  offset: 0, 0
+  index: -1
+sharkBad
+  rotate: false
+  xy: 323, 61
+  size: 120, 40
+  orig: 120, 40
+  offset: 0, 0
+  index: -1
+clownGoodFish
+  rotate: false
+  xy: 685, 465
+  size: 98, 59
+  orig: 98, 59
+  offset: 0, 0
+  index: -1
+blueGoodFish
+  rotate: false
+  xy: 323, 9
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
+goldieGoodFish
+  rotate: false
+  xy: 645, 276
+  size: 75, 69
+  orig: 75, 69
+  offset: 0, 0
+  index: -1
+plainGoodFish
+  rotate: false
+  xy: 483, 203
+  size: 100, 40
+  orig: 100, 40
+  offset: 0, 0
+  index: -1
+swordfishGood
+  rotate: false
+  xy: 817, 568
+  size: 100, 36
+  orig: 100, 36
+  offset: 0, 0
+  index: -1
+oldFishBad
+  rotate: false
+  xy: 817, 532
+  size: 100, 34
+  orig: 100, 34
+  offset: 0, 0
+  index: -1
+pause2
+  rotate: false
+  xy: 937, 689
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+soundon
+  rotate: false
+  xy: 937, 623
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+rareGoodFish
+  rotate: false
+  xy: 465, 156
+  size: 80, 45
+  orig: 80, 45
+  offset: 0, 0
+  index: -1
+dolphinGood
+  rotate: false
+  xy: 465, 114
+  size: 80, 40
+  orig: 80, 40
+  offset: 0, 0
+  index: -1
+perchGoodFish
+  rotate: false
+  xy: 645, 237
+  size: 80, 37
+  orig: 80, 37
+  offset: 0, 0
+  index: -1
+soundoff
+  rotate: false
+  xy: 585, 179
+  size: 58, 64
+  orig: 58, 64
+  offset: 0, 0
+  index: -1
+troutGoodFish
+  rotate: false
+  xy: 645, 195
+  size: 80, 40
+  orig: 80, 40
+  offset: 0, 0
+  index: -1
+hookcircle
+  rotate: false
+  xy: 735, 417
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+greenGoodFish
+  rotate: false
+  xy: 937, 595
+  size: 60, 26
+  orig: 60, 26
+  offset: 0, 0
+  index: -1
+greenpatch
+  rotate: false
+  xy: 785, 601
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+redpatch
+  rotate: false
+  xy: 790, 601
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
